@@ -1,0 +1,177 @@
+{
+  "Electric": {
+    "icon": "fas fa-bolt",
+    "iconBw": "icons/bw/plug.png",
+    "buttonText": "View Products",
+    "subCategories": [
+      {
+        "name": "Hot Water Storage",
+        "icon": "fas fa-database",
+        "iconBw": "icons/bw/storage.png",
+        "buttonText": "View Products",
+        "size": {
+          "icon": "fas fa-database",
+          "iconBw": "icons/bw/storage.png",
+          "buttonText": "View",
+          "range": [
+            "10L",
+            "15L",
+            "50L",
+            "80L",
+            "125L",
+            "160L",
+            "250L",
+            "315L",
+            "400L"
+          ]
+        }
+      },
+      {
+        "name": "Hot Water System",
+        "icon": "fas fa-database",
+        "iconBw": "icons/bw/system.png",
+        "buttonText": "View Products",
+        "size": {
+          "icon": "fas fa-database",
+          "iconBw": "icons/bw/system.png",
+          "buttonText": "View",
+          "range": [
+            "10L",
+            "15L",
+            "50L",
+            "80L",
+            "125L",
+            "160L",
+            "250L",
+            "315L",
+            "400L"
+          ]
+        }
+      },
+      {
+        "name": "Heat Pump",
+        "icon": "fas fa-fan",
+        "iconBw": "icons/bw/pump2.png",
+        "buttonText": "View Products",
+        "size": {
+          "icon": "fas fa-fan",
+          "iconBw": "icons/bw/pump2.png",
+          "buttonText": "View",
+          "range": [
+            "10L",
+            "15L",
+            "50L",
+            "80L",
+            "125L",
+            "160L",
+            "250L",
+            "315L",
+            "400L"
+          ]
+        }
+      }
+    ]
+  },
+  "LPG": {
+    "icon": "far fa-calendar-alt",
+    "iconBw": "icons/bw/gas-bottle.png",
+    "buttonText": "View Products",
+    "subCategories": [
+      {
+        "name": "Hot Water Storage",
+        "icon": "fas fa-database",
+        "iconBw": "icons/bw/storage.png",
+        "buttonText": "View Products",
+        "size": {
+          "icon": "fas fa-database",
+          "iconBw": "icons/bw/storage.png",
+          "buttonText": "View",
+          "range": [
+            "10L",
+            "15L",
+            "50L",
+            "80L",
+            "125L",
+            "160L",
+            "250L",
+            "315L",
+            "400L"
+          ]
+        }
+      },
+      {
+        "name": "Hot Water System",
+        "icon": "fas fa-database",
+        "iconBw": "icons/bw/system.png",
+        "buttonText": "View Products",
+        "size": {
+          "icon": "fas fa-database",
+          "iconBw": "icons/bw/system.png",
+          "buttonText": "View",
+          "range": [
+            "10L",
+            "15L",
+            "50L",
+            "80L",
+            "125L",
+            "160L",
+            "250L",
+            "315L",
+            "400L"
+          ]
+        }
+      }
+    ]
+  },
+  "Natural Gas": {
+    "icon": "fas fa-fire",
+    "iconBw": "icons/bw/gas-symbol.png",
+    "buttonText": "View Products",
+    "subCategories": [
+      {
+        "name": "Hot Water Storage",
+        "icon": "fas fa-database",
+        "iconBw": "icons/bw/storage.png",
+        "buttonText": "View Products",
+        "size": {
+          "icon": "fas fa-database",
+          "iconBw": "icons/bw/storage.png",
+          "buttonText": "View",
+          "range": [
+            "10L",
+            "15L",
+            "50L",
+            "80L",
+            "125L",
+            "160L",
+            "250L",
+            "315L",
+            "400L"
+          ]
+        }
+      },
+      {
+        "name": "Hot Water System",
+        "icon": "fas fa-database",
+        "iconBw": "icons/bw/system.png",
+        "buttonText": "View Products",
+        "size": {
+          "icon": "fas fa-database",
+          "iconBw": "icons/bw/system.png",
+          "buttonText": "View",
+          "range": [
+            "10L",
+            "15L",
+            "50L",
+            "80L",
+            "125L",
+            "160L",
+            "250L",
+            "315L",
+            "400L"
+          ]
+        }
+      }
+    ]
+  }
+}

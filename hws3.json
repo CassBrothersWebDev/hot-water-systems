@@ -1,0 +1,100 @@
+{
+  "Electric": {
+    "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/flash.png?v=1693954926",
+    "buttonText": "View Type",
+    "subCategories": [
+      {
+        "name": "Hot Water Storage Systems",
+        "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/storage.png?v=1693954926",
+        "buttonText": "View Sizes",
+        "size": {
+          "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/storage.png?v=1693954926",
+          "buttonText": "View",
+          "range": [
+            "10L",
+            "15L",
+            "50L",
+            "80L",
+            "125L",
+            "160L",
+            "250L",
+            "315L",
+            "400L"
+          ]
+        }
+      },
+      {
+        "name": "Continous Flow Systems",
+        "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/system.png?v=1693954926",
+        "buttonText": "View Sizes",
+        "size": {
+          "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/system.png?v=1693954926",
+          "buttonText": "View",
+          "range": ["20.2Amp", "24.7Amp", "27Amp", "30Amp", "38.9Amp", "40Amp"]
+        }
+      },
+      {
+        "name": "Heat Pumps",
+        "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/pump2.png?v=1693954926",
+        "buttonText": "View Sizes",
+        "size": {
+          "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/pump2.png?v=1693954926",
+          "buttonText": "View",
+          "range": ["250L", "302L", "315L"]
+        }
+      }
+    ]
+  },
+  "Natural Gas": {
+    "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/gas-symbol.png?v=1693954926",
+    "buttonText": "View Type",
+    "subCategories": [
+      {
+        "name": "Hot Water Storage Systems",
+        "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/storage.png",
+        "buttonText": "View Sizes",
+        "size": {
+          "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/storage.png?v=1693954926",
+          "buttonText": "View",
+          "range": ["130L", "160L", "340L"]
+        }
+      },
+      {
+        "name": "Continous Flow Systems",
+        "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/system.png?v=1693954926",
+        "buttonText": "View Sizes",
+        "size": {
+          "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/system.png?v=1693954926",
+          "buttonText": "View",
+          "range": ["26L", "32L"]
+        }
+      }
+    ]
+  },
+  "LPG": {
+    "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/gas-bottle.png?v=1693954926",
+    "buttonText": "View Type",
+    "subCategories": [
+      {
+        "name": "Hot Water Storage Systems",
+        "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/storage.png?v=1693954926",
+        "buttonText": "View Sizes",
+        "size": {
+          "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/storage.png?v=1693954926",
+          "buttonText": "View",
+          "range": ["135L", "170L"]
+        }
+      },
+      {
+        "name": "Continous Flow Systems",
+        "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/system.png?v=1693954926",
+        "buttonText": "View Sizes",
+        "size": {
+          "iconBw": "https://cdn.shopify.com/s/files/1/0552/5808/7468/files/system.png?v=1693954926",
+          "buttonText": "View",
+          "range": ["26L", "32L"]
+        }
+      }
+    ]
+  }
+}
