@@ -1,4 +1,4 @@
-# Hot Water System Selection Webpage
+# Hot Water System Selection
 
 ## Introduction
 
