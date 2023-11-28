@@ -6,18 +6,18 @@ Welcome to the Buy Hot Water Systems - Supplied & Installed webpage! This intera
 
 ## Getting Started
 
-1.  Energy Source Selection (Step 1):
+### Step 1: Energy Source Selection
 
 - Click on the energy source that suits your requirements.
 - Explore the available options such as `Electric`, `Natural Gas`, or `LPG`.
 
-2.  Product Type Selection (Step 2):
+### Step 2: Product Type Selection
 
 - Based on your chosen energy source, select the desired product type.
 - For `Electric`, choose between `Hot Water Storage Systems`, `Continuous Flow Systems`, or `Heat Pumps`.
 - For `Natural Gas` and `LPG`, select from `Hot Water Storage Systems` or `Continuous Flow Systems`.
 
-3.  Size/System Temperature Selection (Step 3):
+### Step 3: Size/System Temperature Selection
 
 - Specify the capacity or system temperature of your hot water system.
 - For `Electric`:
