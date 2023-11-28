@@ -21,7 +21,7 @@ Welcome to the Buy Hot Water Systems - Supplied & Installed webpage! This intera
 
 - Specify the capacity or system temperature of your hot water system.
 - For Electric:
-- View sizes for Hot Water Storage Systems and Continuous Flow Systems.
-- Explore capacities for Heat Pumps.
+  - View sizes for Hot Water Storage Systems and Continuous Flow Systems.
+  - Explore capacities for Heat Pumps.
 - For Natural Gas and LPG:
-- View sizes for both Hot Water Storage Systems and Continuous Flow Systems.
+  - View sizes for both Hot Water Storage Systems and Continuous Flow Systems.
