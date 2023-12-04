@@ -4,6 +4,9 @@
 
 This interactive tool is designed to assist you in selecting the ideal hot water system for your needs through a simple 3-step process. Whether you're looking for electric, natural gas, or LPG systems, this webpage makes the selection process hassle-free.
 
+**Important**  
+The code in question is not written inside Shopify Shogun; rather, it has been directly added to the Shopify page using the HTML editor.
+
 ## Getting Started
 
 ### Step 1: Energy Source Selection
