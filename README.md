@@ -7,6 +7,9 @@ This interactive tool is designed to assist you in selecting the ideal hot water
 [!IMPORTANT] 
 The code in question is not written inside Shopify Shogun; rather, it has been directly added to the Shopify page using the HTML editor.
 
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
 ## Getting Started
 
 ### Step 1: Energy Source Selection
